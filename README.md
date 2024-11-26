@@ -2,6 +2,9 @@
 
 ## Description
 
+ένα site για τα μαθήματα πληροφορικής!!
+https://epalepaneclass.wordpress.com/
+
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
