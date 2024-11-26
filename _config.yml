@@ -5,6 +5,7 @@ title: 8ekeclass's homepage
 description: Bookmark this to keep an eye on my project updates!
 lsi: false
 safe: true
+markdown: kramdown
 source: [8ekeclass's top level directory]
 incremental: false
 highlighter: rouge
